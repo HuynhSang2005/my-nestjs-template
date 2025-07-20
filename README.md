@@ -184,5 +184,5 @@ Mẫu dự án này giúp bạn tiết kiệm thời gian cấu hình ban đầu
 
 ## 👥 Tác giả
 
-* Nguyễn Huỳnh Sang – [GitHub](https://github.com/nguyenhuynhsang)
+* Nguyễn Huỳnh Sang – [GitHub](https://github.com/HuynhSang2005/)
 
